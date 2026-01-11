@@ -1,3 +1,3 @@
 # Beep
 
-![banner](../images/banner.jpg)
+![banner](../images/banner.png)
